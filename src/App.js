@@ -5,9 +5,9 @@ import Header from './components/Header/Header';
 function App() {
   return (
     <div className="container">
+      <!-- -->
       <Header></Header>
       <Wizards></Wizards>
-
     </div>
   );
 }
